@@ -1,2 +1,3 @@
+packer-builder-vmware-ova
 *.swp
 dest/*
