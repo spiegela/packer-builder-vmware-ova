@@ -28,3 +28,5 @@ In your JSON template add the following post processor:
 ```
 
 If you don't want to compile the code, you can [grab a release here](https://github.com/spiegela/packer-builder-vmware-ova/releases).
+
+Thanks go [GoSDDC](http://gosddc.com/) for excellent example code and OVF Tool integration.
